@@ -1,0 +1,9 @@
+# Ignorar entorno virtual
+env/
+__pycache__/
+*.pyc
+
+# Configuración local
+*.env
+node_modules/
+
